@@ -1,2 +1,6 @@
 clous computing is high technical skill
+<<<<<<< HEAD
 navttc is visiiting us today in a while
+=======
+now we are working on file from  hr depart 
+>>>>>>> hr
